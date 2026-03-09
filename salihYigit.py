@@ -1,0 +1,1 @@
+print("Biz de buradaydık!\n\n-Salih Yigit Olmez")
